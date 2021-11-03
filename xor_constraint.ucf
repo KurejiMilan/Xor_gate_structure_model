@@ -1,0 +1,3 @@
+NET 'x' LOC = P26;
+NET 'y' LOC = P27;
+NET 'z' LOC = P29;
